@@ -7,11 +7,11 @@ body {
 }
 
 a {
-  color: #f16338;
+  color: #000;
 }
 
 a:hover {
-  color: #f16338;
+  color: #000;
   text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #f16338;
+  background: #000;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -50,7 +50,7 @@ h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #f16338;
+  background: #000;
   transition: background 0.2s ease-in-out;
 }
 
@@ -114,7 +114,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #f16338;
+  background: #000;
   color: #fff;
   text-decoration: none;
 }
@@ -177,7 +177,7 @@ h6 {
 .nav-menu a:hover i,
 .nav-menu .active > a i,
 .nav-menu li:hover > a i {
-  color: #f16338;
+  color: #000;
 }
 
 /* Mobile Navigation */
@@ -197,7 +197,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #f16338;
+  color: #000;
 }
 
 .mobile-nav-active {
